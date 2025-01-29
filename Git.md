@@ -24,7 +24,6 @@
 1. Зарегистрируйте аккаунт на [GitHub](https://github.com/).
 <details>
 ![image](https://github.com/chizhpaul/Netology/1_1.jpg)
-<details>
 1. Создайте  **новый отдельный публичный репозиторий**. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 2. Склонируйте репозиторий, используя https протокол `git clone ...`.
 3. Перейдите в каталог с клоном репозитория.
