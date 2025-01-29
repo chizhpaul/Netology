@@ -39,6 +39,7 @@
 1. Сделайте `git push origin master`.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+https://github.com/chizhpaul/my-first-github/commit/6f4ef9c29582143439a3a0de5cc98e33e0677944
 
 ---
 
