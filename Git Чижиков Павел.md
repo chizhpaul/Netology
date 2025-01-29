@@ -4,7 +4,7 @@
 
 1. Зарегистрируйте аккаунт на GitHub.
 
-![][image1]
+![][https://github.com/chizhpaul/Netology/img/1_1.jpg]
 
 2. Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 
