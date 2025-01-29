@@ -25,18 +25,18 @@
 <details>
 ![alt text](https://github.com/chizhpaul/Netology/1_1.jpg)
 <details>
-1. Создайте  **новый отдельный публичный репозиторий**. Обязательно поставьте галочку в поле «Initialize this repository with a README».
-2. Склонируйте репозиторий, используя https протокол `git clone ...`.
-3. Перейдите в каталог с клоном репозитория.
-1. Произведите первоначальную настройку Git, указав своё настоящее имя и email: `git config --global user.name` и `git config --global user.email johndoe@example.com`.
-1. Выполните команду `git status` и запомните результат.
-1. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
-1. Ещё раз выполните `git status` и продолжайте проверять вывод этой команды после каждого следующего шага.
-1. Посмотрите изменения в файле README.md, выполнив команды `git diff` и `git diff --staged`.
-1. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
-1. Ещё раз выполните команды `git diff` и `git diff --staged`.
-1. Теперь можно сделать коммит `git commit -m 'First commit'`.
-1. Сделайте `git push origin master`.
+2. Создайте  **новый отдельный публичный репозиторий**. Обязательно поставьте галочку в поле «Initialize this repository with a README».
+3. Склонируйте репозиторий, используя https протокол `git clone ...`.
+4. Перейдите в каталог с клоном репозитория.
+5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: `git config --global user.name` и `git config --global user.email johndoe@example.com`.
+6. Выполните команду `git status` и запомните результат.
+7. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
+8. Ещё раз выполните `git status` и продолжайте проверять вывод этой команды после каждого следующего шага.
+9. Посмотрите изменения в файле README.md, выполнив команды `git diff` и `git diff --staged`.
+10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
+11. Ещё раз выполните команды `git diff` и `git diff --staged`.
+12. Теперь можно сделать коммит `git commit -m 'First commit'`.
+13. Сделайте `git push origin master`.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 https://github.com/chizhpaul/my-first-github/commit/6f4ef9c29582143439a3a0de5cc98e33e0677944
