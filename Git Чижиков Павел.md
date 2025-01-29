@@ -12,51 +12,52 @@
 
 3. Клонируйте репозиторий, используя https протокол `git clone ...`.
 
-![][image3]
+![](/img/1_3.jpg)
 
 4. Перейдите в каталог с клоном репозитория.
 
-![][image4]
+![](/img/1_4.jpg)
 
 5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: `git config --global user.name` и `git config --global user.email johndoe@example.com`.
 
-![][image5]
+![](/img/1_5.jpg)
 
 6. Выполните команду `git status` и запомните результат.
 
-![][image6]
+![](/img/1_6.jpg)
 
 7. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
 
-![][image7]
+![](/img/1_7.jpg)
 
 8. Ещё раз выполните `git status` и продолжайте проверять вывод этой команды после каждого следующего шага.
 
-![][image8]
+![](/img/1_8.jpg)
 
 9. Посмотрите изменения в файле README.md, выполнив команды `git diff` и `git diff --staged`.
 
-![][image9]
+![](/img/1_9.jpg)
 
 10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
 
-![][image10]
+![](/img/1_10.jpg)
 
 11. Ещё раз выполните команды `git diff` и `git diff --staged`.
 
-![][image11]
+![](/img/1_11.jpg)
 
 12. Теперь можно сделать коммит `git commit -m 'First commit'`.
 
-![][image12]
+![](/img/1_12.jpg)
 
 13. Сделайте `git push origin master`.
 
-![][image13]
+![](/img/1_13_1.jpg)
 
-![][image14]
+![](/img/1_13_2.jpg)
 
-![][image15]  
+![](/img/1_13_3.jpg) 
+
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.  
 [https://github.com/chizhpaul/my-first-github/commit/6f4ef9c29582143439a3a0de5cc98e33e0677944](https://github.com/chizhpaul/my-first-github/commit/6f4ef9c29582143439a3a0de5cc98e33e0677944)
 
